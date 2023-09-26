@@ -1,0 +1,18 @@
+raw data
+1. for downstream  1 for testing
+
+create the bootstrap  in  a long list
+1000 * 100 =     
+cross validation dataset
+1000 each from 1-10
+generating the data probably be difficult
+hits them all equally distributed in the cv
+two datasets  bootstrapping and cross valiadation
+
+to do with the data
+run 100 regression.
+10 from cross valiadation
+merge the regression outcome into a gragh
+
+use hidden data to test the accuracy and other metrics
+think 
